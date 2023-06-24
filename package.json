@@ -1,0 +1,20 @@
+{
+  "name": "cloud_functions_sample_composition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatakeYusuke19920527/cloud_functions_sample_composition.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SatakeYusuke19920527/cloud_functions_sample_composition/issues"
+  },
+  "homepage": "https://github.com/SatakeYusuke19920527/cloud_functions_sample_composition#readme"
+}
